@@ -1,0 +1,16 @@
+{
+  "name": "mrtk",
+  "version": "2.4.0",
+  "displayName": "MRTK",
+  "description": "MRTK 2.4.0 Packaged to suit UPM.",
+  "unity": "2019.4",
+  "keywords": [
+    "mrtk"
+  ],
+  "author": {
+    "name": "Cameron Newnham",
+    "email": "cam@fologram.com",
+    "url": "https://github.com/microsoft/MixedRealityToolkit-Unity/releases"
+  },
+  "type": "library"
+}
